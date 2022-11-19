@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a37703b.css",
+    "main.js": "/static/js/main.36b4722a.js",
+    "static/js/787.968eb266.chunk.js": "/static/js/787.968eb266.chunk.js",
+    "static/media/dari3marbg.jpg": "/static/media/dari3marbg.5a39178e7bf87c59b4d2.jpg",
+    "static/media/daridjarbg.jpg": "/static/media/daridjarbg.4f8222adaa90e72ded2c.jpg",
+    "static/media/bg.jpg": "/static/media/bg.ab654a08e5c73782f064.jpg",
+    "static/media/bnaabstract.png": "/static/media/bnaabstract.fba46d2a31e47dbab8b4.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.5a37703b.css.map": "/static/css/main.5a37703b.css.map",
+    "main.36b4722a.js.map": "/static/js/main.36b4722a.js.map",
+    "787.968eb266.chunk.js.map": "/static/js/787.968eb266.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a37703b.css",
+    "static/js/main.36b4722a.js"
+  ]
+}
